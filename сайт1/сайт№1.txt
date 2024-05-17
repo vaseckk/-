@@ -1,0 +1,9 @@
+Все видео с закрытого марафона по верстке:
+1) https://youtu.be/aZMTlQHg0A4 (открытый урок)
+2) https://youtu.be/ToZ3s_eYsuU  (открытый урок)
+3) https://youtu.be/ksszrA07B8Y (закрытая трансляция)
+4) https://youtu.be/-TiEpP2wutw (закрытая трансляция)
+5) https://youtu.be/Wo4o1rziX5I (закрытая трансляция)
+6) https://youtu.be/gMNglcdAO1A (закрытая трансляция)
+Ссылка на макет:
+https://www.figma.com/file/15N5KKATAGQHBHRk9xLP3k/Archeev2?node-id=0%3A1
